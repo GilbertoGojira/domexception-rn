@@ -1,5 +1,5 @@
 {
-  "name": "domexception",
+  "name": "domexception-rn",
   "description": "An implementation of the DOMException class from browsers",
   "keywords": [
     "dom",
@@ -34,7 +34,7 @@
     "eslint": "^7.32.0",
     "minipass-fetch": "^1.4.1",
     "mocha": "^9.1.2",
-    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git"
+    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git#17.1.0"
   },
   "engines": {
     "node": ">=12"
